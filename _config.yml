@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Brian Yang"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Graduate Student interested in Experimental Quantum Optics"
   location         : "Michigan, Ann Arbor"
   employer         : "University of Michigan"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Wmt8jRcAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
