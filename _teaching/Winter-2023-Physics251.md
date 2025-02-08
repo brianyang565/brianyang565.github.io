@@ -2,9 +2,9 @@
 title: "Physics 251: Physics for the Life Sciences Laboratory II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Fall-2024-Physics251
+permalink: /teaching/Winter-2023-Physics251
 venue: "University of Michigan, Ann Arbor, Physics Department"
-date: 2024-09-01
+date: 2023-01-03
 location: "Ann Arbor, United States of America"
 ---
 
