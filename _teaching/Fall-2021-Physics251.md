@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Fall-2021-Physics251
 venue: "University of Michigan, Ann Arbor, Physics Department"
-date: 2024-09-01
+date: 2021-09-01
 location: "Ann Arbor, United States of America"
 ---
 
