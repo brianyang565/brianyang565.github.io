@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Brian Yang"
 title_separator          : "-"
 name                     : &name "Brian Yang"
-description              : &description "personal description"
+description              : &description "Brian Yang is a Ph.D. candidate in experimental atomic, molecular, and optical physics at the University of Michigan, working on quantum optics with Rydberg atoms."
 url                      : https://brianyang565.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brianyang565/brianyang565.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Brian Yang"
   pronouns         : "he/him"  
-  bio              : "Graduate Student interested in Experimental Quantum Optics"
-  location         : "Michigan, Ann Arbor"
+  bio              : "Ph.D. candidate in experimental AMO physics, working on quantum optics with Rydberg atoms"
+  location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
   uri              : # URL
   email            : "yangbr@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=Wmt8jRcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Wmt8jRcAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-2892-9405"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "brianyang565"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  Username
+  linkedin         : "brian-yang-amo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -142,11 +142,14 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/brian-yang-amo"
+    - "https://github.com/brianyang565"
+    - "https://orcid.org/0009-0009-2892-9405"
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -183,6 +186,13 @@ exclude:
   - README
   - tmp
   - vendor
+  - README.md
+  - CONTRIBUTING.md
+  - Gemfile.lock
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
 keep_files:
   - .git
   - .svn
@@ -253,8 +263,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -262,8 +270,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -271,8 +277,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -280,7 +284,6 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
 
 
 # Sass/SCSS

@@ -1,12 +1,15 @@
 ---
 title: "Quantum dynamics of collective Rydberg qubits"
 collection: talks
-type: "Contributed Conference Presentation"
-permalink: /talks/2022-03-09-talk-2
-venue: " SPIE Optical Engineering + Applications 2023"
+type: "Contributed conference presentation"
+permalink: /talks/2023-quantum-dynamics-collective-rydberg-qubits
+redirect_from:
+  - /talks/2022-03-09-talk-2
+venue: "SPIE Optical Engineering + Applications 2023"
 date: 2023-03-09
 location: "San Francisco, CA"
 ---
 
 Atom-light entanglement is a key concept in quantum information science. Within a Rydberg atom system, the interaction-induced dephasing is often used to produce entangled states within atomic ensembles. Here, we present a theoretical model and experimental results for the temporal evolution of an initially unentangled Rydberg spin wave into an entangled Dicke state and study effects of interference between non-classical light retrieved from the atoms and a coherent probe field. These results should be useful for a range of quantum information protocols including single photon generation and atom-light entanglement preparation.
-[Presentation Link](https://doi.org/10.1117/12.2657266)
+
+[View the presentation](https://doi.org/10.1117/12.2657266)

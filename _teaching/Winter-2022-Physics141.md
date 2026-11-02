@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/Winter-2022-Physics141
 venue: "University of Michigan, Ann Arbor, Physics Department"
 date: 2022-01-01
-location: "Ann Arbor, United States of America"
+location: "Ann Arbor, MI"
 ---
 
-Graduate Student Instructor (GSI) for the first course in the Elementary Laboratory sequence. This course covers principles of classical mechanics. Students perform data analysis using Python on Jupyter notebook. I led two sections (2 hours each), where students worked in small groups on worksheets covering problems related to the topics covered in class. I provided a short introduction to the topics on the worksheet, helped individual groups with questions, and then went over the solutions to the worksheet problems at the end of the section. I also graded the submitted worksheets, as well as multiple choice questions on weekly quizzes.
+I served as a Graduate Student Instructor (GSI) for the first course in the Elementary Laboratory sequence, which covers the principles of classical mechanics. Students in this course perform their data analysis in Python using Jupyter notebooks. I guided students through the experiments and basic instrumentation, troubleshot the laboratory hardware during sessions, and introduced students to statistical uncertainty, error propagation, and clear technical reporting.
