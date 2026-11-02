@@ -25,14 +25,14 @@ Research experience
   * Built laser intensity servos and acousto-optic modulator and fiber paths, and characterized the phase noise of the 780 nm laser.
   * Implemented experimental timing sequences in Cicero and Atticus to control laser pulse durations and trigger detectors for data acquisition.
   * Wrote standard operating procedures for lab devices and coached junior group members and undergraduates in hands-on experimental skills.
-* **Undergraduate Research Assistant**, Kuzmich Research Group, University of Michigan, 2018–2021
+* **Undergraduate Research Assistant**, Kuzmich Research Group, University of Michigan, 2019–2021
   * Upgraded the timing control of the Rydberg ensemble experiment to the Cicero/Atticus framework.
   * Designed a custom objective lens in Zemax for atom imaging and trapping.
   * Developed beam-shaping algorithms in Mathematica for simultaneous phase and amplitude control and tested them on a spatial light modulator, culminating in a senior honors thesis.
   * Simulated the light fields produced by 2D arrays of excited atoms and computed mode matching with zeroth-order Gaussian beam modes.
-* **Summer Undergraduate Research Assistant**, Hong Kong University of Science and Technology, 2017–2021
-  * Co-designed and constructed a Bitter-type electromagnet for an ultracold magneto-optical trap, and integrated solid-state relay modules to optimize fast magnetic switching.
-  * Developed Fast Fourier Transform analysis scripts in MATLAB to isolate and test the eigenfrequencies of prototype dampers, leading to a co-authored publication in *Scientific Reports*.
+* **Summer Undergraduate Research Assistant**, Hong Kong University of Science and Technology, summers of 2017 and 2018
+  * In 2018, co-designed and constructed a Bitter-type electromagnet for an ultracold magneto-optical trap, and integrated solid-state relay modules to optimize fast magnetic switching.
+  * In 2017, developed Fast Fourier Transform analysis scripts in MATLAB to isolate and test the eigenfrequencies of prototype dampers, leading to a co-authored publication in *Scientific Reports*.
 
 Skills
 ======
@@ -57,7 +57,7 @@ Talks
 Teaching
 ======
 * **Graduate Student Instructor**, University of Michigan, 2021–2026
-  * Taught undergraduate physics laboratory courses in mechanics, fluids, electricity and magnetism, and modern physics, including Physics 151 in most fall and winter semesters. Individual courses are listed on the [Teaching](/teaching/) page.
+  * Taught undergraduate physics laboratory courses in mechanics, fluids, electricity and magnetism, and modern physics. Individual courses are listed on the [Teaching](/teaching/) page.
   * Managed real-time hardware troubleshooting and classroom safety across concurrent student work stations.
   * Introduced students to statistical uncertainty, error propagation, and clear technical reporting.
 

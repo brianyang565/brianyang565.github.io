@@ -24,7 +24,7 @@ I particularly enjoy building experimental systems and seeing them work. In the 
 Background
 ======
 
-I received my B.S. in Honors Physics from the University of Michigan in 2021. My honors thesis analyzed an iterative beam-shaping algorithm for simultaneous amplitude and phase control. As an undergraduate, I also carried out summer research at the Hong Kong University of Science and Technology, where I worked on an electromagnet for a magneto-optical trap and on mechanical vibration damping.
+I received my B.S. in Honors Physics from the University of Michigan in 2021. My honors thesis analyzed an iterative beam-shaping algorithm for simultaneous amplitude and phase control. I also carried out summer research at the Hong Kong University of Science and Technology, where I worked on mechanical vibration damping in 2017 and on an electromagnet for a magneto-optical trap in 2018.
 
 Looking ahead
 ======
