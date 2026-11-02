@@ -5,7 +5,7 @@ type: "Contributed conference presentation"
 permalink: /talks/2023-quantum-dynamics-collective-rydberg-qubits
 redirect_from:
   - /talks/2022-03-09-talk-2
-venue: "SPIE Optical Engineering + Applications 2023"
+venue: "SPIE Photonics West 2023"
 date: 2023-03-09
 location: "San Francisco, CA"
 ---

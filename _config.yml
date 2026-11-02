@@ -21,7 +21,7 @@ repository               : "brianyang565/brianyang565.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Brian Yang"
   pronouns         : "he/him"  
   bio              : "Ph.D. candidate in experimental AMO physics, working on quantum optics with Rydberg atoms"
@@ -135,7 +135,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

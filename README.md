@@ -11,6 +11,6 @@ The site is built with Jekyll on GitHub Pages from the [Academic Pages](https://
 - `_pages/about.md`: home page
 - `_pages/cv.md`: CV page
 - `_publications/`, `_talks/`, `_teaching/`, `_portfolio/` (side projects): one Markdown file per entry
-- `images/profile.png`: sidebar picture
+- `images/profile.jpg`: sidebar picture
 
 GitHub Pages rebuilds the site automatically after each commit to `master`.

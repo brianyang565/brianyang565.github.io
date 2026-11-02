@@ -25,7 +25,7 @@ Research experience
   * Built laser intensity servos and acousto-optic modulator and fiber paths, and characterized the phase noise of the 780 nm laser.
   * Implemented experimental timing sequences in Cicero and Atticus to control laser pulse durations and trigger detectors for data acquisition.
   * Wrote standard operating procedures for lab devices and coached junior group members and undergraduates in hands-on experimental skills.
-* **Undergraduate Research Assistant**, Kuzmich Research Group, University of Michigan, 2019–2021
+* **Undergraduate Research Assistant**, Kuzmich Research Group, University of Michigan, 2018–2021
   * Upgraded the timing control of the Rydberg ensemble experiment to the Cicero/Atticus framework.
   * Designed a custom objective lens in Zemax for atom imaging and trapping.
   * Developed beam-shaping algorithms in Mathematica for simultaneous phase and amplitude control and tested them on a spatial light modulator, culminating in a senior honors thesis.
@@ -57,7 +57,7 @@ Talks
 Teaching
 ======
 * **Graduate Student Instructor**, University of Michigan, 2021–2026
-  * Taught undergraduate physics laboratory courses in mechanics, electricity and magnetism, and modern physics. Individual courses are listed on the [Teaching](/teaching/) page.
+  * Taught undergraduate physics laboratory courses in mechanics, fluids, electricity and magnetism, and modern physics, including Physics 151 in most fall and winter semesters. Individual courses are listed on the [Teaching](/teaching/) page.
   * Managed real-time hardware troubleshooting and classroom safety across concurrent student work stations.
   * Introduced students to statistical uncertainty, error propagation, and clear technical reporting.
 
